@@ -1,7 +1,7 @@
 terraform {
   cloud {
     workspaces {
-      name = "learn-terraform-foreach"
+      name = "learn-terraform-for-each"
     }
   }
 
