@@ -1,11 +1,10 @@
 terraform {
-  /*
   cloud {
     workspaces {
-      name = "learn-terraform-count-foreach"
+      name = "learn-terraform-foreach"
     }
   }
-*/
+
   required_providers {
     aws = {
       source  = "hashicorp/aws"
