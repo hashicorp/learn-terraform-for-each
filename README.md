@@ -1,5 +1,5 @@
 # Learn Terraform for_each
 
-Learn how to use [Terraform's for_each
-meta-argument](https://learn.hashicorp.com/tutorials/terraform/for-each?in=terraform/configuration-language)
-on HashiCorp Learn.
+Learn how to provision multiple resources with Terraform for_each.
+
+Follow along with [this tutorial on HashiCorp Learn](https://learn.hashicorp.com/tutorials/terraform/for-each).
