@@ -1,3 +1,6 @@
+# Copyright (c) HashiCorp, Inc.
+# SPDX-License-Identifier: MPL-2.0
+
 output "public_dns_name" {
   description = "Public DNS name of load balancer"
   value       = module.elb_http.elb_dns_name
